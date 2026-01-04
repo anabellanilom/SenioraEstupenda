@@ -4,4 +4,4 @@ format: html
 editor: visual
 ---
 
-Este sitio va a ser para compartir ideas sobre diversas cosas: Libros, series, pelis. Es una suerte de diario pero público de consumos.
+Este sitio va a ser para compartir ideas sobre diversas cosas: Libros, series, pelis. Es una suerte de diario pero público de consumos. También como un modo de seguir explorando R, más allá de mi sitio profesional.
