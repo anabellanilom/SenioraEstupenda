@@ -1,0 +1,7 @@
+---
+title: "Sobre la Señora Estupenda"
+format: html
+editor: visual
+---
+
+Este sitio va a ser para compartir ideas sobre diversas cosas: Libros, series, pelis. Es una suerte de diario pero público de consumos.

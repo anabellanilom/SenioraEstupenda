@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Señora Estupenda"
+  navbar:
+    left:
+      - href: index.qmd
+      - href: Pelis.qmd
+      - href: Series.qmd
+      - href: Libros.qmd
+      - href: datavisualization.qmd
+    right:
+      - icon: github
+        href: https://github.com/anabellanilom
+      - icon: envelope
+        href: mailto:anabella.anilom@gmail.com
+  site-url: https://anabellanilom.github.io
+
+  twitter-card:
+    # opcional, si querés preview linda cuando compartís el link
+    card-style: summary_large_image
+    image: "images/social-card.png"    # si no tenés esto, podés borrar la línea
+    creator: "@ananilom"
+  
+  page-footer:
+    left: "© 2025 Anabella Molina. Contenido bajo licencia <a href='https://creativecommons.org/licenses/by-nc/4.0/'>CC BY-NC 4.0</a>"
+    center: "Hecho con [Quarto](https://quarto.org)"
+    right: "Alojado en [GitHub Pages](https://pages.github.com)"
+    
+babelquarto:
+  languagelinks: navbar
+  languagecodes:
+    - name: es
+      text: "ES"
+    - name: en
+      text: "EN"
+  mainlanguage: "es"
+  languages: ["en"]
+
+lang: es
+   
+format:
+  html:
+    css: styles.css
+    theme: cosmo
+    toc: true
