@@ -1,0 +1,9 @@
+---
+title: "Pelis 2025"
+format: html
+editor: visual
+---
+
+## Peliculas que vi en 2025 
+
+Clásicas:

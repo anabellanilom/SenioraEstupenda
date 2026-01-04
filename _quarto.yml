@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-      - href: Pelis.qmd
+      - href: Pelis2025.qmd
       - href: Series.qmd
       - href: Libros.qmd
       - href: datavisualization.qmd
